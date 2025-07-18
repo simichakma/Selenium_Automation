@@ -1,4 +1,4 @@
-#1.SauceDemo Selenium Login Test!
+##1.SauceDemo Selenium Login Test!
 Python using "Selenium" to automate the login process on SauceDemo. It uses "attribute selectors (ID)" and "XPath" to interact with the webpage.
 
 Requirements:
