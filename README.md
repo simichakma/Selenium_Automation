@@ -1,4 +1,4 @@
-1.#SauceDemo Selenium Login Test!
+#1.SauceDemo Selenium Login Test!
 Python using "Selenium" to automate the login process on SauceDemo. It uses "attribute selectors (ID)" and "XPath" to interact with the webpage.
 
 Requirements:
@@ -15,7 +15,7 @@ pip install webdriver-manager
 
 
 
-2.#SauceDemo Automation with PyTest + Selenium
+#2.SauceDemo Automation with PyTest + Selenium
 This repository contains an automated test suite using Selenium WebDriver and PyTest to test the SauceDemo e-commerce demo site.
 
 The script uses @pytest.fixture for setup/teardown and @pytest.mark.dependency to manage execution flow.
